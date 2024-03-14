@@ -1,6 +1,7 @@
 The components used:
 1. NodeMCU 1.0 Board ~ ESP-12E Chip
 2. DHT11 = temperature & humidity sensor
-3. HC-SR04 = distance sensor
-4. SD Card Reader Adapter
-5. 4-digit display
+3. BMP180 = barometru & altitudine
+4. HC-SR04 = distance sensor
+5. SD Card Reader Adapter
+6. 4-digit display
